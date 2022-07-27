@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulmarande" alt="paulmarande" /></a> </p>
 
-- 🔭 I’m currently working on [the corrections of the exercises proposed by Tainix](https://github.com/PaulMarande/solution_Tainix)
-
 - 🌱 I’m currently learning **RedwoodJS**
 
 - 💬 Ask me about **Python, C or React**
